@@ -1,0 +1,13 @@
+Assignment 4
+
+Tab bar working				10/10
+Food Tab Picker working correctly	15/15
+Food Tab Slider working with Picker	15/15
+Web view  working			10/10
+Segment Control working		        10/10
+Progress activity working 		10/10
+Text view in Segment Tab		10/10
+Alert in Segment Tab			10/10
+Proper coding style			10/10
+
+Total 					100/100
